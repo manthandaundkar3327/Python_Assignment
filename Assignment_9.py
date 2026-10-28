@@ -17,7 +17,7 @@ mean_val = np.mean(x)
 median_val = np.median(x)
 
 # Note: ddof=1 calculates sample variance/std dev (n - 1),
-# matching standard statistics
+# Matching standard statistics
 variance_val = np.var(x, ddof=1)
 std_dev_val = np.std(x, ddof=1)
 
