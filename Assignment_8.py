@@ -12,7 +12,7 @@ df = df.dropna()
 print(df.head(10))
 print(df.info())
 
-# --------------------------------------------------
+# ------------------------------------------------
 # STEP 1: CREATE A SCATTER PLOT
 
 plt.figure(figsize=(7, 5))
