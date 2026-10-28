@@ -1,0 +1,69 @@
+COMMAND: python main.py
+EXIT CODE: 0
+
+----- STANDARD OUTPUT -----
+==============================================================
+STUDENT PG RENT ANALYSIS AND PREDICTION
+==============================================================
+Number of listings: 80
+Median monthly rent: Rs. 7,950
+Mean monthly rent: Rs. 7,756.25
+Minimum / maximum rent: Rs. 4,100 / Rs. 11,000
+
+Accommodation counts:
+Accommodation_Type
+Girls    43
+Boys     30
+Co-ed     7
+
+Average rent by accommodation type:
+Accommodation_Type
+Boys     7543.33
+Co-ed    7785.71
+Girls    7900.00
+
+Average rent by sharing capacity:
+Sharing_Capacity
+1    9566.67
+2    8347.37
+3    7626.92
+4    6994.74
+5    6371.43
+
+Affordable/expensive counts:
+Rent_Category
+Affordable    40
+Expensive     40
+
+--- Rent prediction model (Random Forest Regression) ---
+MAE:  Rs. 460.58
+RMSE: Rs. 593.43
+R-squared: 0.778
+
+--- Affordability classification (Logistic Regression) ---
+Accuracy: 0.800
+              precision    recall  f1-score   support
+
+  Affordable       0.71      1.00      0.83        10
+   Expensive       1.00      0.60      0.75        10
+
+    accuracy                           0.80        20
+   macro avg       0.86      0.80      0.79        20
+weighted avg       0.86      0.80      0.79        20
+
+Graphs saved to: /mnt/data/Student_PG_Rent_Analysis_Project/graphs
+
+--- Try a rent prediction ---
+Enter values when prompted, or press Enter to skip.
+Distance from college in km [e.g. 1.2]: 
+----- STANDARD ERROR -----
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.

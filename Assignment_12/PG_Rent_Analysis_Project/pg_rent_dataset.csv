@@ -1,0 +1,81 @@
+PG_ID,Location,Monthly_Rent_Rs,Distance_km,Sharing_Capacity,Current_Residents,Accommodation_Type,WiFi,Laundry,Meals_Included,AC,Security
+PG001,Alandi Road,5700,0.72,4,5,Girls,1,0,0,0,1
+PG002,Near Bus Stop,7400,4.6,3,3,Girls,1,1,0,0,1
+PG003,Market Area,8300,1.31,4,4,Co-ed,1,1,1,1,0
+PG004,Alandi Road,5800,0.38,2,3,Girls,1,0,0,0,1
+PG005,College Road,8200,2.86,1,1,Boys,1,1,0,0,1
+PG006,Residential Lane,8000,1.98,1,2,Co-ed,1,1,0,0,1
+PG007,NMIET Gate Area,6700,4.18,4,4,Girls,1,0,1,1,0
+PG008,Dehu Phata,6800,4.08,3,3,Girls,1,1,0,0,1
+PG009,NMIET Gate Area,7600,1.72,2,2,Boys,1,0,1,0,1
+PG010,NMIET Gate Area,8100,4.77,3,3,Girls,1,1,1,0,0
+PG011,Market Area,9200,1.6,2,3,Boys,1,1,1,0,1
+PG012,NMIET Gate Area,8100,2.67,4,5,Co-ed,1,1,1,1,1
+PG013,Near Bus Stop,6800,1.43,3,4,Girls,1,0,1,0,1
+PG014,Near Bus Stop,8800,4.69,3,3,Girls,1,1,0,1,1
+PG015,College Road,10000,0.99,2,2,Girls,0,0,1,1,1
+PG016,NMIET Gate Area,5500,0.42,4,5,Boys,1,0,1,0,1
+PG017,Market Area,8100,2.29,3,3,Girls,0,0,1,1,1
+PG018,Dehu Phata,10500,4.96,1,1,Boys,1,1,1,0,1
+PG019,College Road,9000,4.48,2,2,Girls,0,0,0,1,1
+PG020,Residential Lane,6900,3.79,5,6,Girls,1,1,1,0,1
+PG021,Alandi Road,6400,4.48,5,5,Girls,0,1,1,0,1
+PG022,College Road,7400,4.49,4,4,Boys,1,0,1,0,1
+PG023,Residential Lane,7500,2.69,2,2,Co-ed,1,0,1,0,0
+PG024,College Road,5300,1.72,5,5,Co-ed,1,0,1,0,0
+PG025,Dehu Phata,8600,3.91,4,5,Girls,1,1,1,1,1
+PG026,Residential Lane,6300,3.38,4,4,Boys,1,1,1,0,1
+PG027,Dehu Phata,5700,1.99,3,3,Girls,1,0,0,0,1
+PG028,Dehu Phata,8700,0.65,2,2,Boys,1,1,1,0,1
+PG029,Moshi Road,9300,3.78,1,1,Boys,1,0,1,0,1
+PG030,NMIET Gate Area,4100,1.46,5,5,Girls,0,1,0,0,1
+PG031,Dehu Phata,8500,4.7,3,3,Girls,1,1,0,1,0
+PG032,Residential Lane,8900,1.36,2,2,Co-ed,0,1,1,0,1
+PG033,College Road,5900,0.79,2,2,Boys,1,1,0,0,1
+PG034,Residential Lane,6200,4.19,3,4,Boys,1,1,0,0,1
+PG035,Moshi Road,6700,0.94,2,3,Girls,1,0,0,0,1
+PG036,Dehu Phata,6300,1.06,4,4,Boys,1,0,0,0,1
+PG037,NMIET Gate Area,5900,3.08,4,4,Boys,1,0,0,0,1
+PG038,Dehu Phata,8000,4.4,4,4,Girls,1,1,1,0,1
+PG039,NMIET Gate Area,6800,1.14,3,3,Boys,1,1,0,1,0
+PG040,Alandi Road,7100,1.69,3,4,Girls,1,1,1,0,1
+PG041,Near Bus Stop,8400,3.93,3,3,Girls,1,1,1,0,0
+PG042,College Road,7500,4.86,4,4,Girls,0,0,0,1,1
+PG043,Moshi Road,10100,2.6,1,1,Girls,0,1,0,1,0
+PG044,Dehu Phata,8100,0.89,3,3,Boys,0,0,1,1,1
+PG045,NMIET Gate Area,9600,0.27,1,2,Girls,1,0,0,1,1
+PG046,Alandi Road,8200,1.3,3,3,Girls,1,1,0,1,1
+PG047,Alandi Road,10100,0.83,2,2,Boys,1,1,1,1,1
+PG048,Near Bus Stop,9400,3.45,2,2,Boys,1,1,1,0,1
+PG049,Residential Lane,8500,0.78,2,2,Girls,1,0,1,1,1
+PG050,Market Area,5400,2.63,3,3,Boys,1,1,0,0,1
+PG051,NMIET Gate Area,9200,3.53,2,3,Boys,1,0,1,0,1
+PG052,College Road,6800,2.99,5,5,Boys,1,1,1,0,1
+PG053,College Road,7400,1.16,3,4,Girls,1,1,0,1,1
+PG054,Dehu Phata,8100,4.06,3,3,Girls,1,0,1,1,1
+PG055,NMIET Gate Area,6800,3.63,3,4,Girls,0,0,0,0,1
+PG056,NMIET Gate Area,10500,3.75,1,2,Girls,0,0,0,1,1
+PG057,Market Area,8300,0.83,5,6,Girls,1,1,1,1,1
+PG058,Market Area,6800,0.79,3,3,Girls,1,0,0,0,1
+PG059,Market Area,6100,4.65,4,4,Boys,1,1,0,0,1
+PG060,Alandi Road,8900,2.11,1,1,Boys,1,1,1,0,1
+PG061,Dehu Phata,9200,1.64,3,3,Girls,1,1,1,1,1
+PG062,Dehu Phata,7500,2.55,3,3,Girls,1,0,1,0,1
+PG063,NMIET Gate Area,6800,3.38,5,5,Girls,1,1,1,1,0
+PG064,Dehu Phata,9500,4.79,3,3,Girls,1,0,1,0,1
+PG065,Dehu Phata,9300,1.57,3,3,Girls,1,1,0,1,1
+PG066,Moshi Road,10100,4.64,2,3,Girls,1,1,1,0,1
+PG067,Market Area,8200,0.32,2,2,Girls,1,1,0,1,1
+PG068,Near Bus Stop,7500,2.86,3,3,Boys,1,1,0,0,1
+PG069,Dehu Phata,7800,3.24,3,3,Boys,0,0,1,0,1
+PG070,Near Bus Stop,11000,0.71,1,1,Girls,1,1,1,1,1
+PG071,Market Area,8300,0.87,4,5,Boys,1,0,1,1,1
+PG072,Dehu Phata,7000,2.21,4,4,Boys,0,0,0,1,1
+PG073,Alandi Road,8400,4.84,2,2,Co-ed,1,0,0,0,1
+PG074,Market Area,8000,3.06,3,3,Boys,1,0,1,0,1
+PG075,Near Bus Stop,7900,4.68,2,2,Boys,0,0,0,0,1
+PG076,Residential Lane,4500,4.06,4,4,Boys,1,0,0,0,0
+PG077,NMIET Gate Area,7500,2.44,2,2,Boys,1,0,0,0,1
+PG078,Moshi Road,6800,3.97,4,5,Girls,1,1,1,0,0
+PG079,Residential Lane,7100,0.29,4,4,Girls,1,1,1,1,1
+PG080,Dehu Phata,8800,0.72,4,5,Girls,1,0,1,1,1
